@@ -1,16 +1,16 @@
 # simple-sell-bot-ti
 This is a simple bot made for bids monitoring and selling any asset if bids are present in the order book. It's initial purpose was to sell "Тинькофф ЖК Luzhniki Collection" besause right now it's almost impossible to sell them without any automation.
 
-# Usage
-## Bundled version
+## Usage
+### Bundled version
 - Just double click it to start! :D
 
-## Source code 
+### Source code 
 - Install puthon
 - Install dependencies
 - Run in your favorite IDE!
 
-## Getting a token
+### Getting a token
 - Go to settings page https://www.tinkoff.ru/invest/settings/
 - On the very bottom of the page find "Токены Tinkoff Invest API" block
   <details> 
@@ -30,7 +30,7 @@ This is a simple bot made for bids monitoring and selling any asset if bids are 
     <img src="https://github.com/ImaBadSlime/simple-sell-bot-ti/assets/93201060/2f9d43c6-a793-4b5d-a860-9d5b6e68ad4b">
   </details>
 
-# Getting an account Id
+### Getting an account Id
 - Go to https://www.tinkoff.ru/invest/portfolio/
 - Click on your account you are planning to sell from
   <details> 
