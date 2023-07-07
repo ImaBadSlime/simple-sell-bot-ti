@@ -1,0 +1,4 @@
+tinkoff-investments
+python-dotenv~=1.0.0
+tinkoff~=0.1.1
+loguru~=0.7.0
