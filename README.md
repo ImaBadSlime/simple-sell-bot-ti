@@ -1,12 +1,12 @@
 # simple-sell-bot-ti
-This is a simple bot made for bids monitoring and selling any asset if bids are present in the order book. It's initial purpose was to sell "Тинькофф ЖК Luzhniki Collection" besause right now it's almost impossible to sell them without any automation.
+This is a simple bot made for bids monitoring and selling any asset if bids are present in the order book. It's initial purpose was to sell "Тинькофф ЖК Luzhniki Collection" because right now it's almost impossible to sell them without any automation.
 
 ## Usage
 ### Bundled version
 - Just double click it to start! :D
 
 ### Source code 
-- Install puthon
+- Install python
 - Install dependencies
 - Run in your favorite IDE!
 
